@@ -1,0 +1,190 @@
+Gender: Male
+Package name: Techno City
+
+Number of ticket(s) purchased: 8
+
+Total price after discount(RM): 256.0
+
+Type of Citizen: Citizen
+
+IC Number: 000518-04-0021
+Name: Adam Asyraf
+Age: 19
+Date receipt print: Sunday, 8 December 2019, 12:50:31 PM
+
+
+Gender: Female
+Package Name: Neuro Kingdoms
+
+Number of Ticket(s) Purchased: 5
+
+Total Price after Discount(RM): 140.0
+
+Type of Citizen: Citizen
+
+IC Number: 020904-04-0188
+Name: Nur Amirah
+Age: 17
+Date receipt print: Sunday, 8 December 2019, 1:49:22 PM
+
+
+Gender: Male
+Package name: Kombat Miniland
+
+Number of ticket(s) purchased: 1
+
+Total price after discount(RM): 65.0
+
+Type of Citizen: Non-Citizen
+
+IC Number: 99657843
+Name: Isaac Newton
+Age: 23
+Date receipt print: Sunday, 8 December 2019, 1:49:51 PM
+
+
+Gender: Male
+Package name: Kombat Miniland
+
+Number of ticket(s) purchased: 1
+
+Total price after discount(RM): 65.0
+
+Type of Citizen: Non-Citizen
+
+IC Number: 94557982
+Name: Raymond
+Age: 22
+Date receipt print: Sunday, 8 December 2019, 5:45:20 PM
+
+
+Gender: Male
+Package name: Techno City
+
+Number of ticket(s) purchased: 8
+
+Total price after discount(RM): 256.0
+
+Type of Citizen: Citizen
+
+IC Number: 020520-04-0119
+Name: Ali Bin Ghazali
+Age: 18
+Date receipt print: Sunday, 8 December 2019, 11:59:10 PM
+
+
+Gender: Female
+Package Name: Neuro Kingdoms
+
+Number of Ticket(s) Purchased: 3
+
+Total Price after Discount(RM): 84.0
+
+Type of Citizen: Citizen
+
+IC Number: 000918-10-1068
+Name: nur asmida binti maasan
+Age: 19
+Date receipt print: Wednesday, 11 December 2019, 1:36:59 AM
+
+
+Gender: Male
+Package Name: Neuro Kingdoms
+
+Number of Ticket(s) Purchased: 8
+
+Total Price after Discount(RM): 224.0
+
+Type of Citizen: Citizen
+
+IC Number: 000210050052
+Name: Am
+Age: 20
+Date receipt print: Sunday, 9 February 2020, 3:52:31 PM
+
+
+Gender: Male
+Package Name: Neuro Kingdoms
+
+Number of Ticket(s) Purchased: 5
+
+Total Price after Discount(RM): 140.0
+
+Type of Citizen: Citizen
+
+IC Number: 000210-04-0052
+Name: zack
+Age: 24
+Date receipt print: Sunday, 29 March 2020, 2:57:50 PM
+
+
+Gender: Male
+Package name: Techno City
+
+Number of ticket(s) purchased: 1
+
+Total price after discount(RM): 55.0
+
+Type of Citizen: Non-Citizen
+
+IC Number: 94524321
+Name: ray
+Age: 22
+Date receipt print: Sunday, 29 March 2020, 2:58:29 PM
+
+
+Gender: Female
+Package name: Techno City
+
+Number of ticket(s) purchased: 8
+
+Total price after discount(RM): 256.0
+
+Type of Citizen: Citizen
+
+IC Number: 000210-04-0052
+Name: Nasuha Binti Asri
+Age: 20
+Date receipt print: Sunday, 29 March 2020, 2:59:01 PM
+
+
+Gender: Female
+Package Name: Neuro Kingdoms
+
+Number of Ticket(s) Purchased: 3
+
+Total Price after Discount(RM): 84.0
+
+Type of Citizen: Citizen
+
+IC Number: 000210-04-0052
+Name: Nasuha binti Asri
+Age: 20
+Date receipt print: Wednesday, 15 April 2020, 4:31:43 PM
+
+
+Gender: Male
+Package Name: Neuro Kingdoms
+
+Number of Ticket(s) Purchased: 5
+
+Total Price after Discount(RM): 140.0
+
+Type of Citizen: Citizen
+
+IC Number: 000210-04-0052
+Name: ali
+Age: 21
+Date receipt print: Wednesday, 3 June 2020, 11:24:51 AM
+
+
+Gender: Male
+Package name: Techno City
+
+Number of ticket(s) purchased: 1
+
+Total price after discount(RM): 55.0
+
+Type of Citizen: Non-Citizen
+
+IC Number: 99873142

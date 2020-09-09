@@ -1,0 +1,72 @@
+
+Name: Nasuha
+Age: 19
+Gender: Female
+Number of tickets: 8
+Package: Neuro Kingdoms
+Type of citizen: C
+IC number: 000210-04-0052
+
+Name: Asyraf
+Age: 5
+Gender: Male
+Number of tickets: 8
+Package: Techno City
+Type of citizen: C
+IC number: 140101-04-0175
+
+Name: Ivan Jose
+Age: 23
+Gender: Male
+Number of tickets: 5
+Package: Techno City
+Type of citizen: NC
+Passport number: 934568
+
+Name: Adam
+Age: 21
+Gender: Male
+Number of tickets: 1
+Package: Neuro Kingdoms
+Type of citizen: C
+IC number: 000210-04-0051
+
+Name: Haziq
+Age: 19
+Gender: Male
+Number of tickets: 1
+Package: Inviso Adventure
+Type of citizen: C
+IC number: 000812-04-0141
+
+Name: Daniel Padilla
+Age: 24
+Gender: Male
+Number of tickets: 1
+Package: Techno City
+Type of citizen: NC
+Passport number: 943218
+
+Name: Nasuha
+Age: 29
+Gender: Female
+Number of tickets: 3
+Package: Neuro Kingdoms
+Type of citizen: C
+IC number: 000210-04-0052
+
+Name: James
+Age: 28
+Gender: Male
+Number of tickets: 3
+Package: Techno City
+Type of citizen: NC
+Passport number: 943285
+
+Name: nn
+Age: 19
+Gender: f
+Number of tickets: 4
+Package: Neuro Kingdoms
+Type of citizen: c
+IC number: 00

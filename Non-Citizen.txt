@@ -1,0 +1,50 @@
+
+Name: David
+Age: 23
+Gender: Male
+Number of tickets: 5
+Package: Kombat Miniland
+Type of citizen: NC
+Passport number: 31189955
+Subtotal Price(RM): 325.0
+Price after discount(RM): 227.49999999999997
+
+Name: Zac Efron
+Age: 20
+Gender: Male
+Number of tickets: 1
+Package: Neuro Kingdoms
+Type of citizen: NC
+Passport number: 88763421
+Subtotal Price(RM): 50.0
+Price after discount(RM): 50.0
+
+Name: Daniel Padilla
+Age: 24
+Gender: Male
+Number of tickets: 2
+Package: Techno City
+Type of citizen: NC
+Passport number: 98654328
+Subtotal Price(RM): 110.0
+Price after discount(RM): 110.0
+
+Name: Kathryn Bernardo
+Age: 23
+Gender: Female
+Number of tickets: 8
+Package: Kombat Miniland
+Type of citizen: NC
+Passport number: 76497743
+Subtotal Price(RM): 520.0
+Price after discount(RM): 364.0
+
+Name: Seo Kang Joon
+Age: 25
+Gender: Male
+Number of tickets: 5
+Package: Inviso Adventure
+Type of citizen: NC
+Passport number: 37985532
+Subtotal Price(RM): 300.0
+Price after discount(RM): 210.0

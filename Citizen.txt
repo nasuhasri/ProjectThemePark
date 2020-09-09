@@ -1,0 +1,50 @@
+
+Name: Asyraf
+Age: 19
+Gender: Male
+Number of tickets: 1
+Package: Neuro Kingdoms
+Type of citizen: C
+IC number: 000210-04-0127
+Subtotal Price(RM): 35.0
+Price after discount(RM): 35.0
+
+Name: Nur iman
+Age: 19
+Gender: Female
+Number of tickets: 4
+Package: Inviso Adventure
+Type of citizen: C
+IC number: 001010-01-0188
+Subtotal Price(RM): 180.0
+Price after discount(RM): 90.0
+
+Name: Nur Aisyah
+Age: 24
+Gender: Female
+Number of tickets: 8
+Package: Techno City
+Type of citizen: C
+IC number: 950928-14-0368
+Subtotal Price(RM): 320.0
+Price after discount(RM): 160.0
+
+Name: Harraz Naufal
+Age: 23
+Gender: Male
+Number of tickets: 2
+Package: Neuro Kingdoms
+Type of citizen: C
+IC number: 961122-01-0433
+Subtotal Price(RM): 70.0
+Price after discount(RM): 70.0
+
+Name: Ong Siew Choo
+Age: 55
+Gender: Female
+Number of tickets: 10
+Package: Techno City
+Type of citizen: C
+IC number: 640101-04-0944
+Subtotal Price(RM): 400.0
+Price after discount(RM): 200.0
